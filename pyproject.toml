@@ -38,7 +38,7 @@ path = "src/pinpoint_api/__about__.py"
 dependencies = [
   "coverage[toml]>=6.5",
   "pytest",
-  "urchin",
+  "oursin",
   "ephys-link"
 ]
 [tool.hatch.envs.default.scripts]
