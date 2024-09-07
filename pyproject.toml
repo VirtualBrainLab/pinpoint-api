@@ -17,6 +17,8 @@ readme = "README.md"
 dynamic = ["version"]
 
 dependencies = [
+    'oursin',
+    'vbl-aquarium'
 ]
 
 [project.optional-dependencies]
